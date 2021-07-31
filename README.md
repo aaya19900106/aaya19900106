@@ -1,5 +1,5 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=aaya19900106)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=aaya19900106&layout=compact)
 
 常に赤髪
 
